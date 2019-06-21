@@ -38,10 +38,7 @@ end
 def play(board)
   counter = 0
   until counter == 9
-<<<<<<< HEAD
   counter += 1
-=======
->>>>>>> 6f11a394a4319f3f6264e81943173fd618e15ac3
   turn(board)
   end
 end
